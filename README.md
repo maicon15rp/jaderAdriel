@@ -28,10 +28,11 @@ Eu sou [**@jaderAdriel**](https://github.com/jaderAdriel), tenho x anos e sou es
  ## Minha atividade
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.herokuapp.com/graph?username=jaderAdriel&theme=github-dark&hide_title=true&line=993399&point=993399&area_color=993399&color=FFFFFF">
-  <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.herokuapp.com/graph?username=jaderAdriel&theme=minimal&hide_title=true&line=993399&point=993399&area_color=0000&color=993399"">
+  <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.herokuapp.com/graph?username=jaderAdriel&theme=minimal&hide_title=true&line=993399&point=993399&area_color=0000&color=993399">
   <img alt="jaderAdriel github activity graph" src="https://activity-graph.herokuapp.com/graph?username=jaderAdriel&theme=github-dark&hide_title=true"/>
 </picture>
-<!--
-jaderAdriel/jaderAdriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Contact
+[![Twitter](https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=993399&color=993399)](https://twitter.com/jaderAdriel1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=993399&color=993399)](mailto:email@gmaill)
+[![Instagram](https://img.shields.io/badge/jader.adriel-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=993399&color=993399)](https://www.instagram.com/jader.adriel/)
